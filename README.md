@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DotOfNotGot
 - I’m interested in gamedev
-- I’m currently learning C# 
+- I’m currently learning C# & Unity
